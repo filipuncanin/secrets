@@ -1,6 +1,6 @@
 # Secrets 
 
-Live link https://motionless-tan-leopard.cyclic.app/
+Live link: coming soon
 
 ## Used technologies 
 <li>NodeJS(Express) - Functionality</li>
